@@ -1,6 +1,6 @@
 package br.sesi.hgmbm.poo.cabeca;
 
 public class Boca {
-    String corLabios;
-    int qtdDentes;
+    public String corLabios;
+    public int qtdDentes;
 }
